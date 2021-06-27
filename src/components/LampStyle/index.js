@@ -1,0 +1,1 @@
+export { LampStyle } from "./LampStyle";

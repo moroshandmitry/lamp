@@ -1,0 +1,1 @@
+export { StyledLamp } from "./StyledLamp";
